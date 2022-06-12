@@ -30,13 +30,13 @@ export default function Home() {
 
           <hr className={styles.divider} />
 
-          <h2>Claim Fun Token YBART Yaroslava Bartashevich</h2>
+          <h2>Claim Fan Token YBART Yaroslava Bartashevich</h2>
           <h4>ONE YBART = 0.1 MATIC</h4>
           <Claim tokenDropContract={tokenDropContract} />
 
           <hr className={styles.divider} />
 
-          <h2>Transfer Token YBART</h2>
+          <h2>Transfer Fan Token YBART</h2>
           <Transfer tokenDropContract={tokenDropContract} />
         </>
       ) : (
