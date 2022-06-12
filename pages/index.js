@@ -31,7 +31,7 @@ export default function Home() {
           <hr className={styles.divider} />
 
           <h2>Claim Fun Token YBART Yaroslava Bartashevich</h2>
-          <h4>ONE YBART = 0.3 MATIC</h4>
+          <h4>ONE YBART = 0.1 MATIC</h4>
           <Claim tokenDropContract={tokenDropContract} />
 
           <hr className={styles.divider} />
