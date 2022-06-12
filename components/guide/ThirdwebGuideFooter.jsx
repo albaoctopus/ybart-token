@@ -39,7 +39,7 @@ export default function ThirdwebGuideFooter() {
           style={{ cursor: "pointer" }}
           onClick={() =>
             window.open(
-              "https://github.com/thirdweb-example/token-drop",
+              "https://ybart-token.vercel.app/",
               "_blank"
             )
           }
